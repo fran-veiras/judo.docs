@@ -1,0 +1,1 @@
+/home/francisco/Desktop/workspace/judo.docs/judo-docs-rust/target/wasm32-unknown-unknown/release/libjudo_docs_rust.rlib: /home/francisco/Desktop/workspace/judo.docs/judo-docs-rust/src/lib.rs /home/francisco/Desktop/workspace/judo.docs/judo-docs-rust/src/utils.rs

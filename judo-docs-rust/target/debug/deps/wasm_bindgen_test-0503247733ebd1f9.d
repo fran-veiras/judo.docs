@@ -1,0 +1,9 @@
+/home/francisco/Desktop/workspace/judo.docs/judo-docs-rust/target/debug/deps/wasm_bindgen_test-0503247733ebd1f9.rmeta: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/mod.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/browser.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/detect.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/node.rs
+
+/home/francisco/Desktop/workspace/judo.docs/judo-docs-rust/target/debug/deps/wasm_bindgen_test-0503247733ebd1f9.d: /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/lib.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/mod.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/browser.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/detect.rs /home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/node.rs
+
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/lib.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/mod.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/browser.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/detect.rs:
+/home/francisco/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.3.33/src/rt/node.rs:

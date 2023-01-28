@@ -4,6 +4,11 @@ import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
+import * as wasm from "wasm-game-of-life";
+
+if (typeof window !== 'undefined') {
+  wasm.greet();
+}
 
 export default function Home() {
   return (
